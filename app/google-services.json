@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471624588260",
+    "project_id": "billcalculator-2ff51",
+    "storage_bucket": "billcalculator-2ff51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471624588260:android:d854f695604c29433405f1",
+        "android_client_info": {
+          "package_name": "com.example.billcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHmFcqJltd93SjP0i87kI5epxM97He_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

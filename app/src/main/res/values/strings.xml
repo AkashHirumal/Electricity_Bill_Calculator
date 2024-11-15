@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Electricity Bill Calculator</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="already_registered_login">Already registered? Login</string>
+    <string name="signup">SIGNUP</string>
+    <string name="login">LOGIN</string>
+    <string name="you_have_not_account_register">You have not account ? Register</string>
+    <string name="welcome_to_the_app">Welcome to the app!</string>
+</resources>

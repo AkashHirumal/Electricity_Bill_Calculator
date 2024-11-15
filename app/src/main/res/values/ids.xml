@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="heading_textview" type="id" />
+    <item name="billID" type="id" />
+    <item name="nod" type="id" />
+    <item name="nd_key" type="id" />
+    <item name="un_key" type="id" />
+    <item name="tot_key" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="learnMore" type="id" />
+    <item name="background_image" type="id" />
+    <item name="overlay" type="id" />
+    <item name="app_title" type="id" />
+    <item name="calculate_button" type="id" />
+    <item name="app_description" type="id" />
+    <item name="tips" type="id" />
+</resources>
